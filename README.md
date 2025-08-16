@@ -13,8 +13,6 @@ Institution: Indian Institute of Technology, Delhi
 ## Problem Statement
 To predict the concrete mix design just by giving the model a particular **compressive strength value**.
 
----
-
 ## Methodology
 The following machine learning models were applied and compared:
 
